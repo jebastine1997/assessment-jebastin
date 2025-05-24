@@ -20,7 +20,7 @@ module.exports = {
       },
       assets: {
         source: "src/images",
-        destination: "",
+        destination: "images",
       },
     },
     posthtml: {
